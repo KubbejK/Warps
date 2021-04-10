@@ -1,0 +1,63 @@
+pvp:
+  name: '&8&l» &4&lTeleportuj do PvP&8&l «'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 1
+  y: 100
+  z: 1 
+  
+stoniarki:
+  name: '&8&l» &b&lTeleportuj do Stoniarek &8&l«'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 15
+  y: 100
+  z: 15
+  
+spawn:
+  name: '&8&l» &e&lTeleportuj na spawn &8&l«'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 13
+  y: 100
+  z: 13
+  
+swagger:
+  name: '&8&l» &d&lTeleportuj na warp &a&lS&b&lW&c&lA&4&lG&f&lG&e&lE&3&lR&8&l «'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 14
+  y: 90
+  z: 14
+  
+drzewkarki:
+  name: '&8&l» &1&lTeleportuj do drzewkarek &8&l«'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 12
+  y: 90
+  z: 12
+  
+grupowe:
+  name: '&8&l» &5&lTeleportuj do Grupowego TP &8&l«'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 12
+  y: 90
+  z: 12
+  
+villager:
+  name: '&8&l» &2&lTeleportuj do villagerow &8&l«'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 12
+  y: 90
+  z: 12
+  
+regulamin:
+  name: '&8&l» &7&lTeleportuj do REGULAMINU &8&l«'
+  lore:
+  - '&7Wcisnij aby sie przeteleportowac!'
+  x: 16
+  y: 90
+  z: 16

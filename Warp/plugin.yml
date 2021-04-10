@@ -1,0 +1,7 @@
+main: kb.warp.main.Main
+name: ParKitHcWarpy
+version: 0.2
+author: HejTuKubek
+
+commands:
+  warp:
